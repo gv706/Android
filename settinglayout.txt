@@ -1,0 +1,2 @@
+To set the layout of a file 
+setContentView(R.layout.activityname);
